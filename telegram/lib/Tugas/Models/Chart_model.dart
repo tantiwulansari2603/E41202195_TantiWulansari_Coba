@@ -11,7 +11,7 @@ class ChartModel {
 
 final List<ChartModel> items = [
   ChartModel(
-      name: 'Jefri Nicol',
+      name: 'Sayangku1',
       message: 'Hello Taan',
       time: '08.00',
       profileUrl:
